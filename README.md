@@ -1,4 +1,4 @@
-#📰 Portal de Informações
+📰 Portal de Informações
 
 O Portal de Informações é uma aplicação web desenvolvida com Spring Boot e Thymeleaf, projetada para centralizar, gerenciar e exibir conteúdos de forma organizada e segura.
 Ideal para portais institucionais, empresariais ou de notícias.
@@ -23,7 +23,7 @@ Lombok – Simplificação de código (getters, setters, builders).
 
 Validation – Validação de dados com Hibernate Validator.
 
-#💡 Funcionalidades
+💡 Funcionalidades
 
 Cadastro e gerenciamento de usuários.
 
@@ -35,6 +35,6 @@ Interface responsiva com integração via Thymeleaf.
 
 Migração automatizada do banco de dados.
 
-#🧩 Objetivo
+🧩 Objetivo
 
 Oferecer uma base sólida e escalável para o desenvolvimento de portais de conteúdo, com foco em segurança, organização e facilidade de manutenção.
